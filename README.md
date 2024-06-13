@@ -1,4 +1,4 @@
-#Portfolio Project
+**Portfolio Project**
 This project is a personal portfolio website created using HTML, CSS, and JavaScript. It is based on a project by [Ademir](https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2.git), which I customized to reflect my own interests and showcase my work.
 
 **Project Structure**
