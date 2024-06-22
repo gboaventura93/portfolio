@@ -430,3 +430,15 @@ footer {
 footer p {
   text-align: center;
 }
+
+img:hover {
+  opacity: 0.8;
+}
+
+img {
+  transition: all 0.3s ease-in-out;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
