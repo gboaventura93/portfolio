@@ -443,3 +443,9 @@ img {
 img:hover {
   transform: scale(1.1);
 }
+.search-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: .25rem;
+}
+
